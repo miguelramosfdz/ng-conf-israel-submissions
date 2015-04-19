@@ -48,7 +48,7 @@ Topics covered:
 - Goals and future direction
 - Comparison with ui-router and ng-route
 - Migrating from ui-router to the new router
-- Unit testing routing
+- Unit testing route configuration
 
 ### Session Meta Data
 
