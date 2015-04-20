@@ -28,23 +28,29 @@ Session Details
 
 ### Session Title
 
-Data Services in AngularJS
+Data Models in Angular 1 & 2
 
 ### Session Abstract
 
-There are many ways to load & handle data in AngularJS, derived from different requirements and different approaches.
+Angular 1.0 never offered a robust solution for server connection & data handling.
 
-I've seen about each and every one of them.
+The Angular 2.0 team is doing major efforts to supply a generic solution that fits all.
 
-In this talk, we will cover how to implement different approaches, the pros & cons of each one, and how to determine which one is best for you.
+In this talk, we will:
 
-We will also cover some existing open source libraries made for AngularJS, but more interestingly - what exists outside of AngularJS, such as JS-Data and Ember-Data.
-
-I will also explain why (IMO) there's still no de-facto library that rules-them-all.
+- Go over some existing Angular 1.0 libraries for data handling
+- Summarize the current status of the design doc for Angular 2.0
+- Guide you on how to roll your own infrastructure, considering aspects such as:
+  - caching
+  - prototyping the response
+  - offline editing
+  - validations
+  - realtime updates
+  - etc.
 
 ### Session Meta Data
 
 - Target Audience: AngularJS Developers
 - Length: Full session (45 minutes)
-- Tags: Best Practices, OOP, Code methodology, Inheritance, Reusable, ES6
+- Tags: data models, server connectivity, API, data persistence
 
