@@ -43,5 +43,5 @@ focused on and investigated with examples.
 ### Session Meta Data
 
 - Target Audience: Intermediate
-- Length: Full session
+- Length: 30 min
 - Tags: Angular, Meteor, reactivity, Full Stack, Server Side
