@@ -21,7 +21,7 @@ Adam has worked and consulted to many companies in Israel and abroad, such as Wi
 - Website [500Tech](http://500tech.com)
 - Blog [Blog](http://blog.500Tech.com)
 - Github [github](https://github.com/adamkleingit)
-- Past talks: CodeMotion, AngularJS-IL, StartTAU, Ruby Underground, etc.
+- Past talks: CodeMotion, AngularJS-IL, Devops Israel, StartTAU, and more...
 
 Session Details
 ===============
