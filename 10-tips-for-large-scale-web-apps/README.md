@@ -35,6 +35,6 @@ This session is based on John Papa's and Todd Moto's styleguides, where I will e
 
 ### Session Meta Data
 
-- Target Audience: Intermediate
+- Target Audience: Beginners
 - Length: Lighting Talk (15 minutes)
 - Tags: Styleguides, best practices, tips
