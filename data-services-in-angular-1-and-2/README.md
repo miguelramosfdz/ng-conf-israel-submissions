@@ -9,9 +9,9 @@ Adam Klein
 
 Adam is the CTO of 500Tech, a leading AngularJS consultancy in Israel.
 
-He's been developing software since the age of 15, and an expert AngularJS developer.
+He's been developing software since the age of 15, and he's a passionate AngularJS developer.
 
-Adam has worked and consulted to many companies in Israel and abroad, such as Wix, JFrog, Unpakt, Autodesk, and many more.
+Adam has worked and consulted in AngularJS to many companies in Israel and abroad, such as Wix, JFrog, Unpakt, Autodesk, Backand and many more.
 
 ### Speaker Details
 
