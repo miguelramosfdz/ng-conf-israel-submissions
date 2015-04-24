@@ -32,7 +32,7 @@ Session Details
 
 ### Session Title
 
-How to white label and extend an AngularJS application.
+Extensible architecture - how to extend an AngularJS application.
 
 ### Session Abstract
 
