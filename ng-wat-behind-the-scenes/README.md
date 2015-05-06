@@ -27,7 +27,7 @@ At the official ng-conf 2015, Shai Reznik gave a super crazy talk named: [ng-wat
 Which made fun of some of the confusing parts of Angular and soon became viral amongst Angular developers.
 In this ng-conf Israel talk, Shai will share his personal story behind the ng-wat.
 Having the opportunity to sit down with the Angular core team and discuss the future plans of Angular,
-Shai will also share his imperssions regarding the next versions and how we can help make it better, with less WATs :)
+Shai will also share his impressions regarding the next versions and how we can help make it better, with less WATs :)
 
 
 ### SESSION METADATA
