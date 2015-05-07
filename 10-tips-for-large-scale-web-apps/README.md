@@ -14,8 +14,6 @@ Roy is working as a Front End Developer for Folloze, and is a moderator for the 
 ### Speaker Details
 
 - First Time Speaking: no
-- Email: peled.roy@gmail.com
-- Phone: 0507-584748
 - LinkedIn [LinkedIn](https://il.linkedin.com/in/roypeled)
 - Presentation: [Slides](https://docs.google.com/presentation/d/1y0_IeY535fOiUCZ0CKF6btuUsCQYjYv1xhdbyWlYTSk/edit?usp=sharing)
 
